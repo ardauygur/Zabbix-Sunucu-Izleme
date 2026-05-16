@@ -1,4 +1,4 @@
-# 📊 Zabbix ile Kurumsal Sunucu İzleme Altyapısı (Server Monitoring Infrastructure)
+# 📊 Zabbix ile Kurumsal Sunucu İzleme Altyapısı
 
 ## 📌 Proje Özeti
 Bu proje, boş bir 500GB M.2 disk üzerine kurulan Proxmox sanallaştırma ortamındaki Ubuntu Server'ın sağlık ve performans durumunu 7/24 izlemek için tasarlanmış bir altyapı çalışmasıdır. Sistemdeki darboğazları önceden tespit etmek amacıyla bilinçli stres testleri uygulanmış ve anlık uyarı mekanizmaları kurgulanmıştır.
